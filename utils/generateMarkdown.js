@@ -27,4 +27,4 @@ const generateMarkdown = (data) => {
 `;
 }
 
-export default { generateMarkdown }
+module.exports = { generateMarkdown }

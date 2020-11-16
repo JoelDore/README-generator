@@ -1,6 +1,6 @@
-import { prompt } from "inquirer";
-import { generateMarkdown } from "./utils/generateMarkdown";
-import { fs } from "fs";
+const prompt = require("inquirer");
+const generateMarkdown = require("./utils/generateMarkdown");
+const fs = require("fs");
 
 // array of questions for user
 const questions = [
