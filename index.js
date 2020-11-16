@@ -17,6 +17,9 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, "UTF-8", (err) => {
+        err ? console.log(err) : console.log("Success! Now take a break - you've earned it :)")
+    })
 }
 
 // function to initialize program
