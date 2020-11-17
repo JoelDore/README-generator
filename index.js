@@ -20,7 +20,7 @@ const promptNames = [
     "install",
     "usage",
     "contributing",
-    "test",
+    "tests",
     "email",
     "githubUser",
     "license"
