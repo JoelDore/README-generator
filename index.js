@@ -1,4 +1,4 @@
-const generateMarkdown = require("./utils/generateMarkdown");
+const { generateMarkdown } = require("./utils/generateMarkdown");
 const inquirer = require("inquirer");
 const fs = require("fs");
 
@@ -85,7 +85,8 @@ function init() {
         }
     ])
         .then((data) => {
-            console.log(data)
+            const markdown = generateMarkdown(data);
+            writeToFile("GOODREADME.md", markdown)
         })
 }
 

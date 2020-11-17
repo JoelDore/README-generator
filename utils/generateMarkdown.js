@@ -13,7 +13,7 @@ const generateMarkdown = (data) => {
   * [Questions](#Questions)\n
   * [License](#License)\n\n
   ## Installation\n\n
-  ${data.installation}\n\n
+  ${data.install}\n\n
   ## Usage\n\n
   ${data.usage}\n\n
   ## Contributing\n\n
