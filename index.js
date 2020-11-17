@@ -39,7 +39,8 @@ function init() {
         {
             type: "input",
             message: questions[0],
-            name: promptNames[0]
+            name: promptNames[0],
+            default: "My-Project"
         },
         {
             type: "input",
@@ -69,7 +70,9 @@ function init() {
         {
             type: "input",
             message: questions[6],
-            name: promptNames[6]
+            name: promptNames[6],
+            default: "my email address"
+
         },
         {
             type: "input",
