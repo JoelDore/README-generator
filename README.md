@@ -24,7 +24,7 @@ Requires the npm Inquirer package:  `npm install inquirer`
 
 ## Usage  
 
---> **[Walkthrough Video](./Assets/walkthrough.webm)** <--
+--> **[Walkthrough Video](https://drive.google.com/file/d/1R_s9pzMI0V9uTZcgaLbxm0oQcRRY6-sk/view?usp=sharing)** <--
 
 1. Run `node index` in terminal  
 2. Navigate through prompts  
