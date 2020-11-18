@@ -1,5 +1,4 @@
 # README-generator
-## Command line application that generates a professional README for a new project
 
 <div>
 <img src='https://img.shields.io/github/license/joeldore/README-generator'>  
@@ -7,31 +6,46 @@
 <img src='https://img.shields.io/github/languages/top/joeldore/README-generator'>
 <img src='https://img.shields.io/github/last-commit/joeldore/README-generator'>
 </div>
+
+## _Command line application that generates a professional README for a new project_
 <br>
 
-## Demo: 
+## Table of Contents  
 
-<!-- [Walkthrough Video](./Assets/walkthrough.mp4) -->
-<!-- ![Walkthrough](./Assets/walkthrough.gif) -->
+* [Installation](#Installation)  
+* [Usage](#Usage)  
+* [Contributing](#Contributing)  
+* [Future Development](#FutureDevelopment)  
+* [Questions](#Questions)
 
----
-## Features
+## Installation  
 
-- 
-- 
+Requires the npm Inquirer package:  `npm install inquirer`
 
----
-## Reflection
+## Usage  
 
-- 
-- 
+--> **[Walkthrough Video](./Assets/walkthrough.webm)** <--
 
----
+1. Run `node index` in terminal  
+2. Navigate through prompts  
+3. A file named `GOODREADME.md` will be generated in current directory  
+![Demo-generated](./Assets/Screenshots/generated.png)
+
+## Contributing  
+
+Contributions welcome!
+1. Fork this repository  
+2. Create a new branch  
+3. Commit/push your changes  
+4. Create a new pull request  
+
 ## Future Development
 
 - 
 
----
+## Questions  
+Feel free to send me an email at dore.joel.dore@gmail.com!  
+
 ## <img src="https://icon-library.com/images/license-icon/license-icon-17.jpg" width="28"> License
 This project is [MIT](https://github.com/JoelDore/README-generator/blob/main/LICENSE) licensed.  
 © 2020 [Joel Dore](https://github.com/JoelDore)  
