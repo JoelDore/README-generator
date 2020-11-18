@@ -14,9 +14,9 @@
 
 * [Installation](#Installation)  
 * [Usage](#Usage)  
-* [Contributing](#Contributing)  
-* [Future Development](#FutureDevelopment)  
+* [Contributing](#Contributing)   
 * [Questions](#Questions)
+* [License](#<img-src="https://icon-library.com/images/license-icon/license-icon-17.jpg"-width="28">-License)
 
 ## Installation  
 
@@ -38,10 +38,6 @@ Contributions welcome!
 2. Create a new branch  
 3. Commit/push your changes  
 4. Create a new pull request  
-
-## Future Development
-
-- 
 
 ## Questions  
 Feel free to send me an email at dore.joel.dore@gmail.com!  
