@@ -16,7 +16,7 @@
 * [Usage](#Usage)  
 * [Contributing](#Contributing)   
 * [Questions](#Questions)
-* [License](#<img-src="https://icon-library.com/images/license-icon/license-icon-17.jpg"-width="28">-License)
+* [License](#License)
 
 ## Installation  
 
@@ -42,7 +42,7 @@ Contributions welcome!
 ## Questions  
 Feel free to send me an email at dore.joel.dore@gmail.com!  
 
-## <img src="https://icon-library.com/images/license-icon/license-icon-17.jpg" width="28"> License
+## License
 This project is [MIT](https://github.com/JoelDore/README-generator/blob/main/LICENSE) licensed.  
 © 2020 [Joel Dore](https://github.com/JoelDore)  
 
